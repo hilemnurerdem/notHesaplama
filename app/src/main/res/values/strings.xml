@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Deneme_1</string>
+    <string name="midterm">Vize notunu gir </string>
+    <string name="Fınal">Final notunu gir </string>
+    <string name="sonuc">.</string>
+    <string name="buton">hesapla</string>
+</resources>
